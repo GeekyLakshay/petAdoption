@@ -1,0 +1,3 @@
+[submodule "FrontendPet"]
+	path = FrontendPet
+	url = https://github.com/GeekyLakshay/petadoptionApp
